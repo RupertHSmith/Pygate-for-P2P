@@ -32,4 +32,4 @@ Provided the firmware compiles without errors the firmware may now be flashed by
 If any errors are experienced, check that the PATH and IDF_PATH environment variables are set as per the instructions at https://github.com/pycom/pycom-micropython-sigfox.
 
 ## Pygate Driver
-A simple MicroPython driver was written to enable easy control over the UDP packet forwarder.
+A simple MicroPython driver was written to enable easy control over the UDP packet forwarder and can be found in the 'pycom-driver' directory
