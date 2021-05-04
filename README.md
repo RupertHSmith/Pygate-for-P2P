@@ -1,6 +1,6 @@
 # Pygate-for-P2P
 
-The purpose of Pygate for P2P is to allow the Pycom Pygate LoRa gateway to be used in peer-to-peer networks. This enables the advantages that gateways bring to be leveraged, that is, they can demodualte packets on any channel at any spreading factor without prior configuration. For applications where battery usage is not a concern, gateways bring superior functionality over classic LoRa nodes especially in the context of adaptive Spreading Factors and Collision Avoidance. This repository has two main components; the modified firmware and a MicroPython driver written to make easy use of the firmware. References for the firmware and Pygate driver are provided.
+The purpose of Pygate for P2P is to allow the Pycom Pygate LoRa gateway to be used in peer-to-peer networks. This enables the advantages that gateways bring to be leveraged, that is, they can demodulate packets on any channel at any spreading factor without prior configuration. For applications where battery usage is not a concern, gateways bring superior functionality over classic LoRa nodes especially in the context of adaptive Spreading Factors and Collision Avoidance. This repository has two main components; the modified firmware and a MicroPython driver written to make easy use of the firmware. References for the firmware and Pygate driver are provided.
 
 ## Firmware Modification
 This software is licensed under the GNU GPL version 3 or any
